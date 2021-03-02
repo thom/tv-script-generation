@@ -102,3 +102,8 @@ ENV/
 
 # mac osx
 .DS_Store
+
+# checkpoints
+preprocess.p
+trained_rnn.pt
+save/
